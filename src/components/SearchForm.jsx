@@ -9,7 +9,7 @@ function SearchForm({ onSearch }) {
       const inputValue = username.trim();
 
       if (!inputValue) {
-        alert("Please enter a GitHub username");
+        alert("Unesi ime");
         return;
       }
 
